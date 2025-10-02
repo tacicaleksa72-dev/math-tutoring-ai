@@ -49,9 +49,9 @@ export default function About() {
             </h3>
             <p className='text-sm text-slate-600'>Glavni profesor matematike</p>
             <p className='mt-2 text-sm text-slate-500'>
-              Matematički fakultet, Univerzitet u Beogradu
+              Fakultet organizacionih nauka, Univerzitet u Beogradu
               <br />
-              12 godina iskustva u nastavi
+              8 godina iskustva u nastavi
             </p>
           </div>
         </div>
